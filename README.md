@@ -47,7 +47,6 @@ MovieStore/
 Cara Menjalankan
 
 1. Clone Repository
-```bash
 git clone https://github.com/username/moviestore.git
 cd moviestore
 
