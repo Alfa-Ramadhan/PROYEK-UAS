@@ -44,7 +44,7 @@ MovieStore/
 └── package.json
 
 
-Cara Menjalankan
+Cara Menjalankan:
 
 # 1. Clone Repository
 git clone https://github.com/Alfa-Ramadhan/PROYEK-UAS.git
