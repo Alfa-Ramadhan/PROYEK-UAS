@@ -46,36 +46,36 @@ MovieStore/
 
 Cara Menjalankan
 
-1. Clone Repository
-git clone https://github.com/username/moviestore.git
+# 1. Clone Repository
+git clone https://github.com/Alfa-Ramadhan/PROYEK-UAS.git
 cd moviestore
 
 
-2. Buat file .env di folder /server
-MONGODB_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority
+# 2. Buat file .env di folder /server
+MONGODB_URI="mongodb+srv://fuadalfajri92:y2IMxI7LIAjYUdLL@movie.jhepvky.mongodb.net/?retryWrites=true&w=majority&appName=Movie"
 
 
-3. Install dependencies
-# Root folder
+# 3. Install dependencies
+Root folder
 npm install
 
 
-# Frontend
+Frontend
 cd client
 npm install
 
 
-4. Jalankan Project
-# Backend
+# 4. Jalankan Project
+Backend
 cd server
 npm run dev
 
-# Frontend
+Frontend
 cd ../client
 npm start
 
 
-Anggota Kelompok:
+# Anggota Kelompok:
 1. Alfa Ramadhan
 2. Farrel Adrian Laksana
 3. Fuad Al Fajri
